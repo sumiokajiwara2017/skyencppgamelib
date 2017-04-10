@@ -1,0 +1,10 @@
+#pragma once
+
+/// <summary>
+/// debuglogicã@î\ã§í íËêî
+/// </summary>
+namespace sky { namespace lib { namespace debuglogic {
+
+	static const s32 DEBUG_MSG_LENGHT_MAX = 2048;
+
+} } }

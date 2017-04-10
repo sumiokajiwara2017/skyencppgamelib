@@ -1,0 +1,25 @@
+#pragma once 
+//※※【このヘッダーファイルはExcelMatrixConvertBinaryツールによる自動生成です】※※ 
+enum pgconstdata { 
+consol_MSG_LENGHT_WCHAR = 0, 
+consol_MSG_LENGHT_SCHAR = 4, 
+debuglogic_DEBUG_OUT_PATH = 8, 
+debuglogic_DEBUG_OUT_MODE = 40, 
+file_FILE_CTRL_HASH_SIZE = 48, 
+hash_HASH_STR_MAN_HASH_SIZE = 52, 
+input_DEF_REPEATE_INTVL = 56, 
+input_DEF_ON_INTVL = 60, 
+input_CONTROLLER_NUM_MAX = 64, 
+surface_SURFACE_HASH_SIZE = 68, 
+render_SCENEGRAPH_HASH_SIZE = 72, 
+font_FONT_HASH_SIZE = 76, 
+scene_SCENE_HASH_SIZE = 80, 
+model_MODEL_HASH_SIZE = 84, 
+sprite_SPRITE_HASH_SIZE = 88, 
+camera_CAMERA_HASH_SIZE = 92, 
+vertex_VERTEX_HASH_SIZE = 96, 
+index_INDEX_HASH_SIZE = 100, 
+texture_TEXTURE_HASH_SIZE = 104, 
+viewport_VIEWPORT_HASH_SIZE = 108, 
+window_WINDOW_HASH_SIZE = 112, 
+};
